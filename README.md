@@ -6,7 +6,7 @@ Anything above 1,000,000 is marked as Fraud.
 User opens website  
         ↓  
 HTML form shows  
-        ↓
+        ↓  
 User enters data  
         ↓  
 Clicks button  
